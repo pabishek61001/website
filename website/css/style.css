@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+  }
+
+.header{
+    border: 2px solid black;
+    height: 20vh;
+    display: flex;
+}
+
+.content{
+    height: 70vh;
+    border: 2px solid black;
+}
+
+.footer{
+    border: 2px solid black;
+    height: 10vh;
+}
+
+.header_image{
+    width: 30%;
+    border: 2px solid green;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.header_links{
+    width: 70%;
+    border: 2px solid green;
+    height: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+
+body{
+    margin: 0px;
+  }
